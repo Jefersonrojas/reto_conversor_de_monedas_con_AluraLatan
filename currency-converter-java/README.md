@@ -1,4 +1,4 @@
-# Conversor de Monedas (Java, sin Maven/Gson) — VS Code Ready
+# Conversor de Monedas
 
 Este proyecto **cumple con todos los requisitos** del desafío:
 - **Configuración del Ambiente Java**: solo necesitas JDK 11+ y VS Code con la extensión "Extension Pack for Java".
