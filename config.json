@@ -1,0 +1,6 @@
+{
+  "API_KEY": "2dee0cca59f8675567c68625",
+  "BASE": "PEN",
+  "API_URL_TEMPLATE": "https://v6.exchangerate-api.com/v6/{API_KEY}/latest/{BASE}",
+  "TIMEOUT_SECONDS": 20
+}
